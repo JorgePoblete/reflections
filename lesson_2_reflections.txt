@@ -1,0 +1,9 @@
+koke's Version Control Lesson 2 Reflections
+
+- What happens when you initialize a repository? Why do you need to do it?
+
+Git adds a hidden folder to save its required metadata.
+
+- How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It is a intermediate area, it offers the flexibility to choose how to manage your commits.
