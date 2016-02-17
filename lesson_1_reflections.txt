@@ -1,0 +1,35 @@
+koke's Version Control Lesson 1 Reflections
+
+- How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It is helpful when you didint know where to look at.
+
+- How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Because it gives you the chance to go back in time and take other path in the development, like a tree you can have
+multiple branches reflecting other posibilities.
+
+- What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having
+versions automatically saved, like Google Docs does?
+
+Pros: better undestanding and more importance of the changes made
+
+Cons: its more suceptible to user error if it doesnt create reasonable good commits
+
+- Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others,
+like Google Docs, treat each file separately?
+
+Because they have different purpouses, git is more oriented to code and development, so its more likely that one change
+in one file could affect other files.
+
+- How can you use the commands git log and git diff to view the history of files?
+
+You can see the commit history and see what changes where made from one commit to other.
+
+- How might using version control make you more confident to make changes that could break something?
+
+Because even if my change breaks something i can return to a point where all works and fix it.
+
+- Now that you have your workspace set up, what do you want to try using Git for?
+
+Work on a repository.
