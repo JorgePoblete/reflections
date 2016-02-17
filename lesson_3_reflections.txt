@@ -1,0 +1,5 @@
+koke's Version Control Lesson 2 Reflections
+
+- When would you want to use a remote repository rather than keeping all your work local?
+
+When you want to colaborate with more people.
