@@ -9,3 +9,8 @@ with your remote repository?
 
 Because other people working on the same branch could push something wrong, if Git updates automatically
 then that error will be part of my local repository.
+
+- Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A clone is a copy of an existing repository to a local repository, a fork is a copy of an existing repository
+in Github to a new repository on Github, a branch is a branch.
