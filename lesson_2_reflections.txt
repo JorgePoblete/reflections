@@ -7,3 +7,12 @@ Git adds a hidden folder to save its required metadata.
 - How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It is a intermediate area, it offers the flexibility to choose how to manage your commits.
+
+- How can you use the staging area to make sure you have one commit per logical change?
+
+Sending only the files that are in that logical change to the staging area.
+
+- What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When something different from the master branch is made, like an experiment, a change of color scheme or something not
+directly related with the master branch in the actual state of the repository.
