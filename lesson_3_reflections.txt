@@ -1,5 +1,11 @@
-koke's Version Control Lesson 2 Reflections
+koke's Version Control Lesson 3 Reflections
 
 - When would you want to use a remote repository rather than keeping all your work local?
 
 When you want to colaborate with more people.
+
+- Why might you want to always pull changes manually rather than having Git automatically stay up-to-date
+with your remote repository?
+
+Because other people working on the same branch could push something wrong, if Git updates automatically
+then that error will be part of my local repository.
