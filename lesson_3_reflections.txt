@@ -14,3 +14,17 @@ then that error will be part of my local repository.
 
 A clone is a copy of an existing repository to a local repository, a fork is a copy of an existing repository
 in Github to a new repository on Github, a branch is a branch.
+
+- What is the benefit of having a copy of the last known state of the remote stored locally?
+
+To have the most recent updates that other people could have done on the remote.
+
+- How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Using Dropbox or something like that, depending on the purpouse it may vary, but for a development look
+Github is the way to go.
+
+- When would you want to make changes in a separate branch rather than directly in master? What benefits
+does each approach have?
+
+When your change is not really necesary but it could be good to include.
